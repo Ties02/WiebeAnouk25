@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+
+    <!-- ===== ALGEMENE INFO OVER DE PODCAST (1x invullen) ===== -->
+    <title>25 jaar Anouk en Wiebe</title>
+    <link>https://jouwnaam.github.io/podcast/</link>
+    <language>nl-nl</language>
+    <itunes:author>Ties en Rik</itunes:author>
+    <description>Een podcast-serie ter ere van het 25-jarig huwelijk van Anouk en Wiebe. Vrienden delen herinneringen, muziek en meer.</description>
+    <itunes:image href="https://drive.google.com/uc?export=download&amp;id=VERVANG_MET_COVER_AFBEELDING_ID" />
+    <itunes:category text="Society &amp; Culture" />
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Ties en Rik</itunes:name>
+      <itunes:email>ties.leenstra@home.nl</itunes:email>
+    </itunes:owner>
+
+    <!-- ===== AFLEVERING 1: TEST ===== -->
+    <item>
+      <title>Testaflevering</title>
+      <description>Dit is een testaflevering om te checken of de RSS-feed goed werkt.</description>
+      <pubDate>Sun, 23 Aug 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1lNfCCS7_z23S7XerjUX0FNpcfLOPucij" type="audio/mpeg" length="2" />
+      <guid isPermaLink="false">test-aflevering-001</guid>
+      <itunes:duration>04:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- ===== HIERONDER KOPIEER JE EEN NIEUW <item>...</item> BLOK PER NIEUWE AFLEVERING ===== -->
+
+  </channel>
+</rss>
