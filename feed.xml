@@ -3,16 +3,16 @@
   <channel>
 
     <!-- ===== ALGEMENE INFO OVER DE PODCAST ===== -->
-    <title>Wiebe & Anouk 25</title>
+    <title>Wiebe &amp; Anouk 25</title>
     <link>https://ties02.github.io/WiebeAnouk25/</link>
     <language>nl-nl</language>
     <itunes:author>Ties en Rik</itunes:author>
     <description>Een podcast-serie ter gelegenheid van het 25-jarig huwelijk van Wiebe en Anouk. Vrienden delen herinneringen, muziek en meer.</description>
-    <itunes:image href="https://drive.google.com/uc?export=download&amp;id=14ogs3cLkjS6gJcPCHo_99ZNXeRyLjPN6" />
+    <itunes:image href="https://drive.google.com/uc?export=download&id=14ogs3cLkjS6gJcPCHo_99ZNXeRyLjPN6" />
     <itunes:category text="Society &amp; Culture" />
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner>
-      <itunes:name>Ties en Rik</itunes:name>
+      <itunes:name>Ties &amp; Rik</itunes:name>
       <itunes:email>ties.leenstra@home.nl</itunes:email>
     </itunes:owner>
 
