@@ -10,6 +10,7 @@
     <description>Een podcast-serie ter gelegenheid van het 25-jarig huwelijk van Wiebe en Anouk. Vrienden delen herinneringen, muziek en meer.</description>
     <itunes:image href="https://drive.google.com/uc?export=download&amp;id=14ogs3cLkjS6gJcPCHo_99ZNXeRyLjPN6" />
     <itunes:category text="Society &amp; Culture" />
+    <itunes:type>serial</itunes:type>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner>
       <itunes:name>TiRi Media</itunes:name>
@@ -24,17 +25,19 @@
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1PRiaxCzyekwFUToPHpkgY9UFQ2SrC2KY" type="audio/mpeg" length="0" />
       <guid isPermaLink="false">aflevering-001</guid>
       <itunes:duration>09:09</itunes:duration>
+      <itunes:episode>1</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
         <!-- ===== AFLEVERING 2 ===== -->
     <item>
       <title>Oeds-Jan &amp; Janny </title>
-      <description>Over boezemvrienden, positiviteit, aanpakken, luisteren en een avontuurlijke zeilreis.</description>
+      <description>Over vriendschap, positiviteit, aanpakken, luisteren en een avontuurlijke zeilreis.</description>
       <pubDate>Thu, 17 Sep 2026 11:00:00 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=10Gvps4j04OMZnXiohuwne_-BMK8d78hX" type="audio/mpeg" length="0" />
       <guid isPermaLink="false">aflevering-002</guid>
       <itunes:duration>13:35</itunes:duration>
+      <itunes:episode>2</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
