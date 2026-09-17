@@ -26,7 +26,17 @@
       <itunes:duration>09:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-    <!-- ===== HIERONDER KOPIEER JE EEN NIEUW <item>...</item> BLOK PER NIEUWE AFLEVERING ===== -->
+
+        <!-- ===== AFLEVERING 2 ===== -->
+    <item>
+      <title>Oeds-Jan &amp; Janny </title>
+      <description>Over boezemvrienden, positiviteit, aanpakken, luisteren en een avontuurlijke zeilreis.</description>
+      <pubDate>Thu, 17 Sep 2026 11:00:00 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=10Gvps4j04OMZnXiohuwne_-BMK8d78hX" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">aflevering-002</guid>
+      <itunes:duration>13:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 
   </channel>
 </rss>
