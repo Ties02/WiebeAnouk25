@@ -41,5 +41,17 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+            <!-- ===== AFLEVERING 3 ===== -->
+    <item>
+      <title>Johan &amp; Alice </title>
+      <description>Over een onverwachte ontmoeting in Amerika en en kapotte buggy.</description>
+      <pubDate>Thu, 17 Sep 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1xkal12F9hMZkoavv5TiXtZaUcmWCyp2X" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">aflevering-003</guid>
+      <itunes:duration>09:11</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
   </channel>
 </rss>
