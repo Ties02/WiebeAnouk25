@@ -65,6 +65,18 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- ===== AFLEVERING 6 ===== -->
+    <item>
+      <title>Erwin &amp; Esther</title>
+      <description>Over de zwemouders, positiviteit, een luidruchtig diner en een lang afscheid.</description>
+      <pubDate>Fri, 18 Sep 2026 16:00:00 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1jRtIYF2bvd9G1h-NpkJv3TV0XdDpOYOZ" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">aflevering-006</guid>
+      <itunes:duration>11:31</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     <!-- ===== AFLEVERING 7 ===== -->
     <item>
       <title>Tineke</title>
