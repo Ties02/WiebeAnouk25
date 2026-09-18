@@ -19,7 +19,7 @@
 
     <!-- ===== AFLEVERING 1 ===== -->
     <item>
-      <title>Liesbeth &amp; Pieter-Anne </title>
+      <title>Liesbeth &amp; Pieter-Anne</title>
       <description>Over erop uit gaan, camping Het Meuleke, en een gemiste bevalling. Met een prachtig gedicht als afsluiter.</description>
       <pubDate>Thu, 17 Sep 2026 10:00:00 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1PRiaxCzyekwFUToPHpkgY9UFQ2SrC2KY" type="audio/mpeg" length="0" />
@@ -31,7 +31,7 @@
 
     <!-- ===== AFLEVERING 2 ===== -->
     <item>
-      <title>Oeds-Jan &amp; Janny </title>
+      <title>Oeds-Jan &amp; Janny</title>
       <description>Over vriendschap, positiviteit, aanpakken, luisteren en een avontuurlijke zeilreis.</description>
       <pubDate>Fri, 18 Sep 2026 16:00:00 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=10Gvps4j04OMZnXiohuwne_-BMK8d78hX" type="audio/mpeg" length="0" />
@@ -43,7 +43,7 @@
 
     <!-- ===== AFLEVERING 3 ===== -->
     <item>
-      <title>Johan &amp; Alice </title>
+      <title>Johan &amp; Alice</title>
       <description>Over een onverwachte ontmoeting in Amerika en een kapotte buggy.</description>
       <pubDate>Fri, 18 Sep 2026 16:00:00 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1xkal12F9hMZkoavv5TiXtZaUcmWCyp2X" type="audio/mpeg" length="0" />
@@ -55,7 +55,7 @@
 
     <!-- ===== AFLEVERING 5 ===== -->
     <item>
-      <title>Wilfred, Monique &amp; Anne </title>
+      <title>Wilfred, Monique &amp; Anne</title>
       <description>Over een liefdevolle koninginnedag, een machtige zeiltocht in Friesland, een verfrissende after-party en meer...</description>
       <pubDate>Fri, 18 Sep 2026 16:00:00 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1nd4KpMgdMM2RFPiIMzyrOAqEOxEU5vhh" type="audio/mpeg" length="0" />
@@ -65,9 +65,21 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- ===== AFLEVERING 7 ===== -->
+    <item>
+      <title>Tineke</title>
+      <description>Over een luisterend oor, pittig rijgedrag en blijdschap.</description>
+      <pubDate>Fri, 18 Sep 2026 16:00:00 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ZruEVjZw81qhTQSEt120HHnaesqz-mEG" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">aflevering-007</guid>
+      <itunes:duration>07:15</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     <!-- ===== AFLEVERING 8 ===== -->
     <item>
-      <title>Fred &amp; Sylvia </title>
+      <title>Fred &amp; Sylvia</title>
       <description>Over de Jan Steenstraat, yoga en een vis.</description>
       <pubDate>Fri, 18 Sep 2026 16:00:00 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1GaQPfkHclpNS6UFiwyJUjszfAs6X5yZl" type="audio/mpeg" length="0" />
@@ -79,7 +91,7 @@
 
     <!-- ===== AFLEVERING 10 ===== -->
     <item>
-      <title>Ties, Rik &amp; Kike </title>
+      <title>Ties, Rik &amp; Kike</title>
       <description>Over koffie, ondernemen, een verrassingsfeest, een kapotte telefoon en meer...</description>
       <pubDate>Fri, 18 Sep 2026 16:00:00 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1zW7fILMk6eCi6Fun1UNjeQLTPM7Tmerh" type="audio/mpeg" length="0" />
