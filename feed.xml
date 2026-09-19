@@ -20,6 +20,18 @@
       <itunes:email>ties.leenstra@home.nl</itunes:email>
     </itunes:owner>
 
+    <!-- ===== TRAILER ===== -->
+    <item>
+      <title>Trailer</title>
+      <description>Wiebe en Anouk zijn 25 jaar getrouwd. Hoe houden ze het al 25 jaar vol, welke genante verhalen zijn hierbij komen kijken en welke soundtrack hoort bij dit zilveren huwelijk?</description>
+      <pubDate>Sun, 13 Sep 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1f2pR69L1de1syJuoHWDgwgIpHQXO1E7y" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">trailer-001</guid>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:duration>01:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     <!-- ===== AFLEVERING 1 ===== -->
     <item>
       <title>Liesbeth &amp; Pieter-Anne</title>
