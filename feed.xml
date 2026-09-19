@@ -5,12 +5,15 @@
     <!-- ===== ALGEMENE INFO OVER DE PODCAST ===== -->
     <title>Wiebe &amp; Anouk 25 jaar</title>
     <link>https://ties02.github.io/WiebeAnouk25/</link>
+    <atom:link href="https://ties02.github.io/WiebeAnouk25/feed.xml" rel="self" type="application/rss+xml" />
     <language>nl-nl</language>
+    <copyright>© 2026 TiRi Media</copyright>
     <itunes:author>TiRi Media</itunes:author>
     <description>Een podcast-serie ter gelegenheid van het 25-jarig huwelijk van Wiebe en Anouk. Vrienden delen herinneringen, muziek en meer.</description>
     <itunes:image href="https://drive.google.com/uc?export=download&amp;id=14ogs3cLkjS6gJcPCHo_99ZNXeRyLjPN6" />
     <itunes:category text="Society &amp; Culture" />
     <itunes:type>serial</itunes:type>
+    <itunes:block>yes</itunes:block>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner>
       <itunes:name>TiRi Media</itunes:name>
