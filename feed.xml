@@ -48,8 +48,20 @@
       <pubDate>Fri, 18 Sep 2026 16:00:00 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1xkal12F9hMZkoavv5TiXtZaUcmWCyp2X" type="audio/mpeg" length="0" />
       <guid isPermaLink="false">aflevering-003</guid>
-      <itunes:duration>09:11</itunes:duration>
+      <itunes:duration>12:15</itunes:duration>
       <itunes:episode>3</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- ===== AFLEVERING 4 ===== -->
+    <item>
+      <title>Henk &amp; Paulien</title>
+      <description>Over sportiviteit, een privécoach, New York, kamperen, spruitjes en meer...</description>
+      <pubDate>Fri, 18 Sep 2026 16:00:00 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1AJaMRqbaInr_HLqZDifTbZNSZPEBU_8i" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">aflevering-004</guid>
+      <itunes:duration>12:00</itunes:duration>
+      <itunes:episode>4</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
