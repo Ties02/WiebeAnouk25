@@ -128,6 +128,18 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- ===== AFLEVERING 9 ===== -->
+    <item>
+      <title>Fulco &amp; Marscha</title>
+      <description>Over een Fries, een Twentenaar, een pepertje en een stel klompen.</description>
+      <pubDate>Fri, 18 Sep 2026 16:00:00 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1hH-0g_zDOWaEQ04i82Rkysn1P7mBEzRa" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">aflevering-009</guid>
+      <itunes:duration>13:15</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     <!-- ===== AFLEVERING 10 ===== -->
     <item>
       <title>Ties, Rik &amp; Kike</title>
